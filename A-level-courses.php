@@ -388,8 +388,8 @@
                   </svg>
                 </a>
                 <ul class="dropdown-menu">
-                  <li><a href="./login.php" class="dropdown-item" style="font-weight: bold; color: darkred;">Login</a></li>
-                  <li><a href="#" class="dropdown-item" style="font-weight: bold; color: rgb(111, 111, 242);;">SignUp</a></li>
+                  <li><a href="./register/index.php" class="dropdown-item" style="font-weight: bold; color: darkred;">Login</a></li>
+                  <li><a href="./register/register.php" class="dropdown-item" style="font-weight: bold; color: rgb(111, 111, 242);;">SignUp</a></li>
                   <li><a href="#" class="dropdown-item" style="font-weight: bold; color: rgb(111, 111, 242);;">My Profile</a></li>
                   <li><a href="#" class="dropdown-item" style="font-weight: bold; color: rgb(111, 111, 242);;">Privacy</a></li>
                 </ul>
